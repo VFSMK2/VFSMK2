@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VFSMK2
- test onlt
+ test only
 
 <!---
 VFSMK2/VFSMK2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
